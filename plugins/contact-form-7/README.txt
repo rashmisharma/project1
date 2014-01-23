@@ -1,4 +1,4 @@
-making changes to test rebase
+making changes to test branch rebase
 === Contact Form 7 ===
 Contributors: takayukister
 Donate link: http://pledgie.com/campaigns/3117
