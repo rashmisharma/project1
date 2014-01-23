@@ -1,5 +1,9 @@
-making changes to test branch rebase functionality
+﻿making changes to test branch rebase functionality
+
 === Contact Form 7 ===
+test
+checking if changes are merged
+
 Contributors: takayukister
 Donate link: http://pledgie.com/campaigns/3117
 Tags: contact, contact form, email, ajax, captcha, akismet, WPML, multilingual
